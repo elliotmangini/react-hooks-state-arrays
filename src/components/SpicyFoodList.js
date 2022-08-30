@@ -24,3 +24,6 @@ function SpicyFoodList() {
 }
 
 export default SpicyFoodList;
+
+
+// there may be an error with isexe package.json
